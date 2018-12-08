@@ -11,6 +11,7 @@ A trento non c'è mai davvero niente da fare?
 - [Eventi organizzati dall'università :school:](#eventi-organizzati-dalluniversit%C3%A0httpswwwfacebookcomunitrentoevents-school)
 - [Festival organizzati dal Comune 🏛](#festival-organizzati-dal-comune-)
 - [Eventi organizzati dal MuSe :leaves:](#eventi-organizzati-dal-muse-)
+- [Locali a Trento](#locali-a-trento)
 
 ## Speck&Tech 🐷
 
@@ -105,3 +106,9 @@ Scorsa edizione: [2018](http://2018.ictdays.it/)
 - [Facebook](https://www.facebook.com/musetrento/events/)
 
 <!-- Il _MUSE_ è il MUSEo delle Scienze Naturali) :leaves: -->
+
+## Locali a Trento
+
+- [Accademia (Hakka)](https://www.facebook.com/pg/hakkatrento/)
+- [Bar Accademia](https://www.facebook.com/baraccademiatrento/) ([chi sono](https://www.facebook.com/baraccademiatrento/))
+- [La scaletta](https://www.facebook.com/lascalettaosteria/)
