@@ -21,8 +21,8 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 | Simbolo | Significato    |
 | --      | ---            |
 | 🧪      | esercitazioni |
-| 🆘      | [sostegno][1]      |
-| 🇮🇹    | italiano       |
+| :sos:   | [sostegno][1]  |
+| :it:    | italiano       |
 | :gb:    | inglese        |
 
 ### 1° Semestre
@@ -62,7 +62,7 @@ A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
 ### 4° Semestre
 
-- :six: Fisica
+- :sos: :six: Fisica
 - :six: Introduzione alla Programmazione per il Web
 - :one: :two: Sistemi Operativi (:it:) [Silberschatz][7]
 
