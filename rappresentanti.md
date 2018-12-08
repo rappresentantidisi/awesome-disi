@@ -8,3 +8,7 @@ Potete rileggere le loro presentazioni nell'[album](https://facebook.com/rappres
 - 🐭 [Francesco](http://bit.ly/elezioni-disi-2018-francesco)
 - 🦊 [Nicolae](http://bit.ly/elezioni-disi-2018-nicolae)
 - 🐰 [Carlotta](http://bit.ly/elezioni-disi-2018-carlotta)
+
+![Rappresentanti DISI 2018-2020][2018-2020]
+
+[2018-2020]: https://github.com/adam-p/markdown-here/raw/master/src/images/2018-2020.png "Rappresentanti DISI 2018-2020"
