@@ -5,9 +5,9 @@ A trento non c'è mai davvero niente da fare?
 - [Speck&Tech 🐷](#specktech-)
 - [Eventi organizzati da UNITIN](#eventi-organizzati-da-unitinhttpswwwfacebookcomunitintrentoevents)
 - [Eventi organizzati da UDU Trento :sunrise:](#eventi-organizzati-da-udu-trentohttpswwwfacebookcomudutrentoevents-sunrise)
-- [Eventi organizzati dall'[università](https://www.facebook.com/UniTrento/events/) :school:](#eventi-organizzati-dalluniversit%C3%A0httpswwwfacebookcomunitrentoevents-school)
-	- [Festival organizzati dal Comune](#festival-organizzati-dal-comune)
-- [Eventi organizzati dal [MuSe](https://www.facebook.com/musetrento/events/) (Museo delle Scienze Naturali)](#eventi-organizzati-dal-musehttpswwwfacebookcommusetrentoevents-museo-delle-scienze-naturali)
+- [Eventi organizzati dall'università :school:](#eventi-organizzati-dalluniversit%C3%A0httpswwwfacebookcomunitrentoevents-school)
+- [Festival organizzati dal Comune](#festival-organizzati-dal-comune)
+- [Eventi organizzati dal [MuSe](https://www.facebook.com/musetrento/events/) (Museo delle Scienze Naturali) ](#eventi-organizzati-dal-musehttpswwwfacebookcommusetrentoevents-museo-delle-scienze-naturali)
 
 ## Speck&Tech 🐷
 
