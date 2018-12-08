@@ -31,7 +31,7 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 
 ### 2° Semestre
 
-- :six: Calcolatori (~:it:)
+- :six: Calcolatori (~ :it: )
 - :six: Fondamenti Matematici per l'informatica
 - :six: Probabilità e Statistica [Ross][1], Eserciziario: [Verri][2]
 - ( :one: :two: ) Programmazione 2
@@ -52,7 +52,7 @@ A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
 ### 3° Semestre
 
-- :six: Basi di dati ( :it: ~ :gb: )
+- :six: Basi di dati ( :it: ~ :it: )
 - :six: Ingegneria del Software 1 ( :it: ) [][5]
 - :six: Logica (:it:) 🧪
 - :six: Reti (:it:) [Kurose][6]
