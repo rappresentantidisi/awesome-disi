@@ -4,8 +4,8 @@
 
 Lista curata di risorse per sopravvivere alla triennale in informatica all'Università degli Studi di Trento.
 
-- [Rappresentanti](../docs/rappresentanti.md) :busts_in_silhouette:
-- [Didattica](../docs/didattica.md) :books:
-- [Eventi](../docs/eventi.md) :balloon:
-- [Servizi](../docs/servizi.md) :ticket:
-- [Progetti informatici](../docs/progetti-it.md) :computer:
+- :busts_in_silhouette: [Rappresentanti](../docs/rappresentanti.md)
+- :books: [Didattica](../docs/didattica.md)
+- :balloon: [Eventi](../docs/eventi.md)
+- :ticket: [Servizi](../docs/servizi.md)
+- :computer: [Progetti informatici](../docs/progetti-it.md)

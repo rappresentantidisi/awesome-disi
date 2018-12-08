@@ -16,28 +16,26 @@ A community of entrepreneurs, developers, designers, professionals and... anyone
 - [PopLar](https://www.facebook.com/poplartrento/) (metà settembre)
 - [Suoni Universitari](https://www.facebook.com/suoniuniv/) (nov-dic)
 
-## Eventi organizzati da [UDU Trento](https://www.facebook.com/udutrento/events/)
+## Eventi organizzati da [UDU Trento](https://www.facebook.com/udutrento/events/) :sunrise:
 
-## Eventi organizzati dall'[università](https://www.facebook.com/UniTrento/events/)
+## Eventi organizzati dall'[università](https://www.facebook.com/UniTrento/events/) :school:
 
-- [Grafik Week](https://www.facebook.com/grafikweek/) . [eventi](https://www.facebook.com/grafikweek/events/)
+- [Grafik Week](https://www.facebook.com/grafikweek/) . [eventi](https://www.facebook.com/grafikweek/events/) :man:
 
 ### Festival organizzati dal Comune
 
-- [TEDxTrento](https://www.facebook.com/TEDxTrento/events/)
+- [TEDxTrento](https://www.facebook.com/TEDxTrento/events/) ❌
 
-## Sei interessato alla rappresentanza studentesca?
+<!-- ## Sei interessato alla rappresentanza studentesca?
 
-## Sei interessato all'associazionismo?
+## Sei interessato all'associazionismo? -->
 
 [Trento Film Festival](https://www.facebook.com/trentofestival/events/
 ) - [chi sono](https://www.facebook.com/pg/trentofestival/about/)
 
 [Eventi organizzati dal MuSe](https://www.facebook.com/musetrento/events/) (Museo delle Scienze Naturali)
 
-Cartella di drive
-
-Eventi
+<!-- Eventi
 
 TEDx Trento
 ICTDays
@@ -68,4 +66,4 @@ JavaScript
 
 Eloquent Javascript
 JS: The Right Way
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript -->
