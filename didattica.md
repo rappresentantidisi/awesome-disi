@@ -6,22 +6,24 @@ Fai __sempre__ riferimento al [manifesto degli studi]() dell'anno in cui ti sei 
 
 ## Percorso comune
 
-#### Legenda
-
-Attualmente i corsi sono tenuti in italiano ( :it: ), se non diversamente specificato ( :gb: ).
-
-| Simbolo | Significato    |
-| --      | ---            |
-| 🧪      | esercitazioni |
-| 🆘      | sostegno      |
-
 I corsi presentati _in ordine alfabetico_.
+
+Attualmente la maggior parte dei corsi sono tenuti in italiano ( :it: ), se non diversamente specificato ( :gb: ).
 
 I link dei libri sono stati presi da _Amazon_ ma sono presenti anche in biblioteca, riporterò anche il codice per prenderlo in prestito nella biblioteca di Scienze (📍 Povo).
 
 _Se non è specificato_ il link al libro allora il materiale offerto dal corso è sufficiente al superamento dell'esame.
 
 Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non è consigliato_, viceversa ✔️ indica che il corso è consigliato.
+
+#### Legenda
+
+| Simbolo | Significato    |
+| --      | ---            |
+| 🧪      | esercitazioni |
+| 🆘      | sostegno      |
+| :it:    | italiano       |
+| :gb:    | inglese        |
 
 ### 1° Semestre
 
@@ -39,6 +41,7 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 	- :six: Modulo 2 (Standard ML) 🧪
 
 A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
+
 	- :neckbeard: Standard
 	- 💰 Economia
 	- 🧬 Biotecnologie
