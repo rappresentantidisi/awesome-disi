@@ -21,21 +21,21 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 | Simbolo | Significato    |
 | --      | ---            |
 | 🧪      | esercitazioni |
-| 🆘      | sostegno      |
+| 🆘      | [sostegno][1]      |
 | :it:    | italiano       |
 | :gb:    | inglese        |
 
 ### 1° Semestre
 
-- :six: Algebra Lineare 🆘
-- :one: :two: Analisi matematica 🆘
-- :one: :two: Programmazione 1 🧪 🆘
+- :sos: :six: Algebra Lineare
+- :sos: :one: :two: Analisi matematica
+- :sos: :one: :two: Programmazione 1 🧪
 
 ### 2° Semestre
 
 - :six: Calcolatori (~ :it: )
 - :six: Fondamenti Matematici per l'informatica
-- :six: Probabilità e Statistica [Ross][1], Eserciziario: [Verri][2]
+- :six: Probabilità e Statistica [Ross][2], Eserciziario: [Verri][3]
 - ( :one: :two: ) Programmazione 2
 	- :six: Modulo 1 (Java) 🧪
 	- :six: Modulo 2 (Standard ML) 🧪
@@ -116,12 +116,11 @@ Per completare il corso di studi in informatica sono rischiesti 12 crediti forma
 
 ## Tesi e tirocinio
 
+[1]: https://www.disi.unitn.it/it/education/educational-services/tutorship
 
-[1]: https://www.amazon.it/Probabilità-statistica-lingegneria-scienze-Sheldon/dp/8891609943/
+[2]: https://www.amazon.it/Probabilità-statistica-lingegneria-scienze-Sheldon/dp/8891609943/
 
-[2]: https://www.amazon.it/Probabilità-statistica-esercizi-desame-risolti/dp/8893850095/
-
-[3]:
+[3]: https://www.amazon.it/Probabilità-statistica-esercizi-desame-risolti/dp/8893850095/
 
 [4]: https://www.amazon.it/Algoritmi-strutture-dati-Alan-Bertossi/dp/8825173954
 
