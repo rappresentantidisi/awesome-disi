@@ -21,7 +21,7 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 | Simbolo | Significato    |
 | --      | ---            |
 | 🧪      | esercitazioni |
-| :sos:   | [sostegno][1]  |
+| :sos:   | [tutorato][1]  |
 | :it:    | italiano       |
 | :gb:    | inglese        |
 
@@ -78,7 +78,7 @@ Per completare il corso di studi in informatica sono rischiesti 12 crediti forma
 
 - :x: :six: Introduction to Computer and Network Security (:gb:)
 
-__NOTA__: Il corso di intro2cns è offerto anche al 1° anno di magistrale.
+__NOTA__: Il corso di intro2cns è offerto anche al 1° anno di magistrale come corso suggerito.
 
 ### 6° Semestre
 
