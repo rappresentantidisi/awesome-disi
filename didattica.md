@@ -6,9 +6,9 @@ Fai __sempre__ riferimento al [manifesto degli studi]() dell'anno in cui ti sei 
 
 ## Percorso comune
 
-I corsi presentati _in ordine alfabetico_.
+I corsi sono presentati _in ordine alfabetico_.
 
-Attualmente la maggior parte dei corsi sono tenuti in italiano ( :it: ), se non diversamente specificato ( :gb: ).
+Attualmente la maggior parte dei corsi vengono tenuti in italiano ( :it: ), se non diversamente specificato ( :gb: ).
 
 I link dei libri sono stati presi da _Amazon_ ma sono presenti anche in biblioteca, riporterò anche il codice per prenderlo in prestito nella biblioteca di Scienze (📍 Povo).
 
@@ -22,7 +22,7 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 | --      | ---            |
 | 🧪      | esercitazioni |
 | 🆘      | [sostegno][1]      |
-| :it:    | italiano       |
+| 🇮🇹    | italiano       |
 | :gb:    | inglese        |
 
 ### 1° Semestre
