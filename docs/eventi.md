@@ -3,6 +3,8 @@
 A trento non c'è mai davvero niente da fare?
 
 - [Speck&Tech 🐷](#specktech-)
+- [Ludimus :game_die:](#ludimus-)
+- [TEDxTrento :x:](#tedxtrento-)
 - [Eventi organizzati da UNITIN](#eventi-organizzati-da-unitinhttpswwwfacebookcomunitintrentoevents)
 - [Eventi organizzati da UDU Trento :sunrise:](#eventi-organizzati-da-udu-trentohttpswwwfacebookcomudutrentoevents-sunrise)
 - [Eventi organizzati dall'università :school:](#eventi-organizzati-dalluniversit%C3%A0httpswwwfacebookcomunitrentoevents-school)
@@ -13,8 +15,14 @@ A trento non c'è mai davvero niente da fare?
 
 A community of entrepreneurs, developers, designers, professionals and... anyone who wants to build a network of tech enthusiasts within the Trento area, with the purpose of learning and sharing new ideas regarding development, design, entrepreneurship, startups and any related topic.
 
-- [sito](https://speckand.tech/)
-- [facebook](https://www.facebook.com/speckandtech/)
+- [Sito](https://speckand.tech/)
+- [Facebook](https://www.facebook.com/speckandtech/)
+
+## Ludimus :game_die:
+
+## TEDxTrento :x:
+
+- [Eventi su Facebook](https://www.facebook.com/TEDxTrento/events/)
 
 ## Eventi organizzati da [UNITIN](https://www.facebook.com/unitintrento/events/)
 
@@ -30,9 +38,7 @@ A community of entrepreneurs, developers, designers, professionals and... anyone
 - [Grafik Week](https://www.facebook.com/grafikweek/) . [eventi](https://www.facebook.com/grafikweek/events/) :man:
 - ICTDays
 
-## Festival organizzati dal Comune 🏛
-
-- [TEDxTrento](https://www.facebook.com/TEDxTrento/events/) ❌
+## Eventi organizzati dal Comune 🏛
 
 - [Trento Film Festival](https://www.facebook.com/trentofestival/events/
 ) - [chi sono](https://www.facebook.com/pg/trentofestival/about/)
