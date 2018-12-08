@@ -62,10 +62,10 @@ A community of entrepreneurs, developers, designers, professionals and... anyone
 - [Google Maps](https://goo.gl/maps/wk2kXHSTv6T2)
 
 - :heart: [PopLar](https://www.facebook.com/poplartrento/) (metà settembre)
-- :heart: [Co.Scienza]() (marzo)
-- :guitar: [Suoni Universitari](https://www.facebook.com/suoniuniv/) (nov-dic)
-- :performing_arts: [Teatro Sambapòlis](https://www.facebook.com/pg/TeatroSanbapolis/events/) (tutto l'anno)
-- :tropical_drink: [Studentato San Bartolomeo](https://www.facebook.com/pg/SanbaTrento/events/)
+- :heart: [Co.Scienza](https://www.facebook.com/CoScienzaFestival/events/) (marzo)
+- :guitar: [Suoni Universitari](https://www.facebook.com/suoniuniv/events/) (nov-dic)
+- :performing_arts: [Teatro Sambapòlis](https://www.facebook.com/TeatroSanbapolis/events/) (tutto l'anno)
+- :tropical_drink: [Studentato San Bartolomeo](https://www.facebook.com/SanbaTrento/events/)
 
 <!-- includi immagini eventi -->
 
