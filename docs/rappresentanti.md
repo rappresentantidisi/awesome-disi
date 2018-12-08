@@ -8,7 +8,7 @@
 
 ## Presentazioni
 
-Potete rileggere le loro presentazioni nell'[album](https://facebook.com/rappresentantidisi/photos/?tab=album&album_id=1904522112988453) 📷 oppure individualmente:
+Potete rileggere le loro presentazioni nell'[album Facebook](https://facebook.com/rappresentantidisi/photos/?tab=album&album_id=1904522112988453) 📷 oppure individualmente:
 
 - 🐒 [Edoardo](http://bit.ly/elezioni-disi-2018-edoardo)
 - 🐳 [Maria](http://bit.ly/elezioni-disi-2018-maria)
@@ -19,7 +19,7 @@ Potete rileggere le loro presentazioni nell'[album](https://facebook.com/rappres
 - 🦁 [Matteo](http://bit.ly/elezioni-disi-2018-matteo)
 - 🐸 [Lisa](http://bit.ly/elezioni-disi-2018-lisa)
 
-![Rappresentanti DISI 2018-2020](images/2018-2020.jpg "Rappresentanti DISI in carica")
+![Rappresentanti DISI 2018-2020](../images/2018-2020.jpg "Rappresentanti DISI in carica")
 
 <!-- ## Risultati -->
 <!-- ## Programma -->
