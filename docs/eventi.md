@@ -2,17 +2,12 @@
 
 A trento non c'è mai davvero niente da fare?
 
-<!-- TOC -->
-
-- [Eventi](#eventi)
-	- [Speck&Tech 🐷](#specktech-)
-	- [Eventi organizzati da [UNITIN](https://www.facebook.com/unitintrento/events/)](#eventi-organizzati-da-unitinhttpswwwfacebookcomunitintrentoevents)
-	- [Eventi organizzati da [UDU Trento](https://www.facebook.com/udutrento/events/) :sunrise:](#eventi-organizzati-da-udu-trentohttpswwwfacebookcomudutrentoevents-sunrise)
-	- [Eventi organizzati dall'[università](https://www.facebook.com/UniTrento/events/) :school:](#eventi-organizzati-dalluniversit%C3%A0httpswwwfacebookcomunitrentoevents-school)
-		- [Festival organizzati dal Comune](#festival-organizzati-dal-comune)
-	- [Eventi organizzati dal [MuSe](https://www.facebook.com/musetrento/events/) (Museo delle Scienze Naturali)](#eventi-organizzati-dal-musehttpswwwfacebookcommusetrentoevents-museo-delle-scienze-naturali)
-
-<!-- /TOC -->
+- [Speck&Tech 🐷](#specktech-)
+- [Eventi organizzati da UNITIN](#eventi-organizzati-da-unitinhttpswwwfacebookcomunitintrentoevents)
+- [Eventi organizzati da UDU Trento :sunrise:](#eventi-organizzati-da-udu-trentohttpswwwfacebookcomudutrentoevents-sunrise)
+- [Eventi organizzati dall'[università](https://www.facebook.com/UniTrento/events/) :school:](#eventi-organizzati-dalluniversit%C3%A0httpswwwfacebookcomunitrentoevents-school)
+	- [Festival organizzati dal Comune](#festival-organizzati-dal-comune)
+- [Eventi organizzati dal [MuSe](https://www.facebook.com/musetrento/events/) (Museo delle Scienze Naturali)](#eventi-organizzati-dal-musehttpswwwfacebookcommusetrentoevents-museo-delle-scienze-naturali)
 
 ## Speck&Tech 🐷
 
@@ -35,7 +30,7 @@ A community of entrepreneurs, developers, designers, professionals and... anyone
 - [Grafik Week](https://www.facebook.com/grafikweek/) . [eventi](https://www.facebook.com/grafikweek/events/) :man:
 - ICTDays
 
-### Festival organizzati dal Comune
+## Festival organizzati dal Comune
 
 - [TEDxTrento](https://www.facebook.com/TEDxTrento/events/) ❌
 
