@@ -5,7 +5,7 @@ A trento non c'è mai davvero niente da fare?
 - [Speck&Tech 🐷](#specktech-)
 - [Ludimus 🎲](#ludimus-)
 - [TEDxTrento ❌](#tedxtrento-)
-- [Eventi organizzati dai Rappresentanti](#eventi-organizzati-dai-rappresentanti)
+- [Eventi organizzati dai Rappresentanti 👥](#eventi-organizzati-dai-rappresentanti-)
 - [Eventi organizzati da UNITiN](#eventi-organizzati-da-unitin)
 - [Eventi organizzati da UDU Trento :sunrise:](#eventi-organizzati-da-udu-trentohttpswwwfacebookcomudutrentoevents-sunrise)
 - [Eventi organizzati dall'università :school:](#eventi-organizzati-dalluniversit%C3%A0httpswwwfacebookcomunitrentoevents-school)
@@ -40,7 +40,7 @@ A community of entrepreneurs, developers, designers, professionals and... anyone
 
 - [Eventi su Facebook](https://www.facebook.com/TEDxTrento/events/)
 
-## Eventi organizzati dai [Rappresentanti](./rappresentanti.md)
+## Eventi organizzati dai [Rappresentanti](./rappresentanti.md) 👥
 
 ### Grill Valley :hamburger:
 
