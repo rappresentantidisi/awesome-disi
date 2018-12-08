@@ -42,10 +42,10 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 
 A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
-	- :neckbeard: Standard
-	- 💰 Economia
-	- 🧬 Biotecnologie
-	- 👨🏻‍💻 Sistemi
+- :neckbeard: Standard
+- 💰 Economia
+- 🧬 Biotecnologie
+- 👨🏻‍💻 Sistemi
 
 ## Percorso Standard
 
@@ -76,7 +76,7 @@ A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
 Per completare il corso di studi in informatica sono rischiesti 12 crediti formativi in esami a scelta.
 
-- :six: Introduction to Computer and Network Security (:gb:) ❌
+- :x: :six: Introduction to Computer and Network Security (:gb:)
 
 __NOTA__: Il corso di intro2cns è offerto anche al 1° anno di magistrale.
 
@@ -86,11 +86,11 @@ __NOTA__: Il corso di intro2cns è offerto anche al 1° anno di magistrale.
 
 Per completare il corso di studi in informatica sono rischiesti 12 crediti formativi in esami a scelta.
 
-- :six: Algoritmi Avanzati ✔️
-- :six: Inglese tecnico ✔️
-- :six: Reti Avanzate ✔️
-- :six: Sistemi informativi ✔️
-- :six: Sistemi Mobili e Tablet (Android) ❌
+- :heavy_check_mark: :six: Algoritmi Avanzati
+- :heavy_check_mark: :six: Inglese tecnico
+- :heavy_check_mark: :six: Reti Avanzate
+- :heavy_check_mark: :six: Sistemi informativi
+- :x: :six: Sistemi Mobili e Tablet (Android)
 
 
 ## Percorso di Economia
