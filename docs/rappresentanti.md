@@ -18,7 +18,7 @@ Potete rileggere le loro presentazioni nell'[album Facebook](https://facebook.co
 - 🐰 [Carlotta](http://bit.ly/elezioni-disi-2018-carlotta)
 - 🐭 [Francesco](http://bit.ly/elezioni-disi-2018-francesco)
 - 🦊 [Nicolae](http://bit.ly/elezioni-disi-2018-nicolae)
-- 🦁 [Matteo](http://bit.ly/elezioni-disi-2018-matteo)
+- 🦁 [Matteo](http://bit.ly/elezioni-disi-2018-matteo): [Telegram](https://t.me/matteounitn)
 - 🐸 [Lisa](http://bit.ly/elezioni-disi-2018-lisa)
 
 ![Rappresentanti DISI 2018-2020](../images/representatives/2018-2020.jpg "Rappresentanti DISI in carica")
