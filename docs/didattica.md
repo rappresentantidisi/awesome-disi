@@ -1,42 +1,32 @@
 # Didattica :books:
 
-Ti consegno il _Santo Graal_: [la cartella di drive di informatica](https://bit.ly/drive-folder) 📁.
-
-Fai __sempre__ riferimento al [manifesto degli studi]() dell'anno in cui ti sei immatricolato per l'offerta didattica del dipartimento.
-
+#### Contenuti
 <!-- TOC -->
 
 - [Didattica :books:](#didattica-books)
 	- [Percorso comune](#percorso-comune)
 		- [Legenda](#legenda)
-		- [1° Semestre](#1%C2%B0-semestre)
-		- [2° Semestre](#2%C2%B0-semestre)
+		- [Contenuti](#contenuti)
+		- [Semestre 1](#semestre-1)
+		- [Semestre 2](#semestre-2)
 	- [Percorso Standard](#percorso-standard)
-		- [3° + 4° Semestre](#3%C2%B0--4%C2%B0-semestre)
-		- [3° Semestre](#3%C2%B0-semestre)
-		- [4° Semestre](#4%C2%B0-semestre)
-		- [5° Semestre](#5%C2%B0-semestre)
+		- [Secondo anno](#secondo-anno)
+		- [Semestre 3](#semestre-3)
+		- [Semestre 4](#semestre-4)
+		- [Semestre 5](#semestre-5)
 			- [A scelta](#a-scelta)
-		- [6° Semestre](#6%C2%B0-semestre)
+		- [Semestre 6](#semestre-6)
 			- [A scelta](#a-scelta-1)
 	- [Percorso di Economia](#percorso-di-economia)
-		- [3° Semestre](#3%C2%B0-semestre-1)
-		- [4° Semestre](#4%C2%B0-semestre-1)
-		- [5° Semestre](#5%C2%B0-semestre-1)
-		- [6° Semestre](#6%C2%B0-semestre-1)
 	- [Percorso di Biotecnologie](#percorso-di-biotecnologie)
-		- [3° Semestre](#3%C2%B0-semestre-2)
-		- [4° Semestre](#4%C2%B0-semestre-2)
-		- [5° Semestre](#5%C2%B0-semestre-2)
-		- [6° Semestre](#6%C2%B0-semestre-2)
 	- [Percorso Sistemi](#percorso-sistemi)
-		- [3° Semestre](#3%C2%B0-semestre-3)
-		- [4° Semestre](#4%C2%B0-semestre-3)
-		- [5° Semestre](#5%C2%B0-semestre-3)
-		- [6° Semestre](#6%C2%B0-semestre-3)
 	- [Tesi e tirocinio](#tesi-e-tirocinio)
 
 <!-- /TOC -->
+
+Ti consegno il _Santo Graal_: [la cartella di drive di informatica](https://bit.ly/drive-folder) 📁.
+
+Fai __sempre__ riferimento al [manifesto degli studi]() dell'anno in cui ti sei immatricolato per l'offerta didattica del dipartimento.
 
 ## Percorso comune
 
@@ -59,28 +49,6 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 | :it:    | italiano       |
 | :gb:    | inglese        |
 
-#### Contenuti
-<!-- TOC -->
-
-- [Didattica :books:](#didattica-books)
-	- [Percorso comune](#percorso-comune)
-		- [Legenda](#legenda)
-		- [Semestre 1](#semestre-1)
-		- [Semestre 2](#semestre-2)
-	- [Percorso Standard](#percorso-standard)
-		- [Secondo anno](#secondo-anno)
-		- [Semestre 3](#semestre-3)
-		- [Semestre 4](#semestre-4)
-		- [Semestre 5](#semestre-5)
-			- [A scelta](#a-scelta)
-		- [Semestre 6](#semestre-6)
-			- [A scelta](#a-scelta-1)
-	- [Percorso di Economia](#percorso-di-economia)
-	- [Percorso di Biotecnologie](#percorso-di-biotecnologie)
-	- [Percorso Sistemi](#percorso-sistemi)
-	- [Tesi e tirocinio](#tesi-e-tirocinio)
-
-<!-- /TOC -->
 ### Semestre 1
 
 - :sos: :six: Algebra Lineare
@@ -95,6 +63,15 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 - ( :one: :two: ) Programmazione 2
 	- :six: Modulo 1 (Java) 🧪
 	- :six: Modulo 2 (Standard ML) 🧪
+
+#### Propedeuticità
+
+Le uniche propedeuticità per farsi verbalizzare gli esami del secondo anno sono:
+
+- :one: :two: 12 crediti in ambito matematico
+- aver raggiunto il livello A2 di inglese (aver superato l'esame di ingresso)
+
+#### Scelta del percorso
 
 A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
