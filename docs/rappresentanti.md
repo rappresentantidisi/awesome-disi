@@ -2,9 +2,9 @@
 
 ## Contatti
 
-* [canale Telegram](https://t.me/rappresentantidisi) aggiornamento mensile
-* [Facebook](https://www.facebook.com/rappresentantidisi/) sempre disponibile
-* [mail](rapp.stud.disi@unitn.it) per comunicazioni ufficiali
+* :memo: [canale Telegram](https://t.me/rappresentantidisi) aggiornamento mensile
+* :thumbsup: [Facebook](https://www.facebook.com/rappresentantidisi/) sempre disponibile
+* :mailbox: [mail](rapp.stud.disi@unitn.it) per comunicazioni ufficiali
 
 ## Presentazioni
 
