@@ -11,4 +11,4 @@ Potete rileggere le loro presentazioni nell'[album](https://facebook.com/rappres
 
 ![Rappresentanti DISI 2018-2020][2018-2020]
 
-[2018-2020]: https://github.com/adam-p/markdown-here/raw/master/src/images/2018-2020.png "Rappresentanti DISI 2018-2020"
+[2018-2020]: https://github.com/emanuelenardi/awesome-disi/raw/master/src/images/2018-2020.png "Rappresentanti DISI 2018-2020"
