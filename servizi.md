@@ -6,7 +6,7 @@
 4. [Utilità](#utilità)
 5. [Informazione](#informazione)
 6. [Eventi](#eventi)
-7. [Carpooling](#carpooling)
+7. [Car pooling](#car-pooling)
 
 ## Rappresentanza studentesca
 
@@ -43,6 +43,8 @@ Offerti da enti esterni all'ateneo.
 * [GitHub Education Pack](https://education.github.com/pack)
 * [JetBrains Education](https://www.jetbrains.com/student/) (IDE)
 
+Ne hai trovati altri e vorresti aggiungerne? Effettua una pull request!
+
 ### Utilità
 
 * [Ports](https://t.me/PortsBot) (disponibilità delle aule del DISI)
@@ -54,11 +56,6 @@ Offerti da enti esterni all'ateneo.
 * [Rappresentanti DISI](https://t.me/rappresentantidisi) ~500 follower comunicazioni a livello di ateneo;
 * [L’universitario](https://t.me/luniversitario) ~200 follower Giornale universitario.
 
-### Eventi
-
-* [Speck&Tech](https://t.me/speckandtech) ~500 follower Conferenze tech a candenza mensile; ([sito](https://speckand.tech/))
-* [Ludimus](https://t.me/ludimus) ~100 follower Serata giochi da tavolo bi-settimanale.
-
-### Carpooling
+### Car pooling
 
 [Pick Me Up](https://t.me/PickMeUp_bot)
