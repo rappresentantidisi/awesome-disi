@@ -56,7 +56,7 @@ A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 ### 3° Semestre
 
 - :six: Basi di dati ( :it: ~ :it: )
-- :six: Ingegneria del Software 1 ( :it: ) [][5]
+- :six: Ingegneria del Software 1 ( :it: ) <!-- [][5] -->
 - :six: Logica (:it:) 🧪
 - :six: Reti (:it:) [Kurose][6]
 
@@ -124,7 +124,7 @@ Per completare il corso di studi in informatica sono rischiesti 12 crediti forma
 
 [4]: https://www.amazon.it/Algoritmi-strutture-dati-Alan-Bertossi/dp/8825173954
 
-[5]:
+<!-- [5]: -->
 
 [6]: https://www.amazon.it/calcolatori-internet-approccio-top-down-aggiornamento/dp/8891902543/
 
