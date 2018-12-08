@@ -1,4 +1,4 @@
-# Didattica 📒
+# Didattica :books:
 
 Ti consegno il _Santo Graal_: [la cartella di drive di informatica](https://bit.ly/drive-folder) 📁.
 
@@ -8,11 +8,15 @@ Fai __sempre__ riferimento al [manifesto degli studi]() dell'anno in cui ti sei 
 
 #### Legenda
 
-Attualmente i corsi sono tenuti in italiano (:it:), se non diversamente specificato (:gb:).
-🧪 comprende laboratorio e/o esercitazioni
-🆘 sostegno
+Attualmente i corsi sono tenuti in italiano ( :it: ), se non diversamente specificato ( :gb: ).
+
+| Simbolo | Significato    |
+| --      | ---            |
+| 🧪      | esercitazioni |
+| 🆘      | sostegno      |
 
 I corsi presentati _in ordine alfabetico_.
+
 I link dei libri sono stati presi da _Amazon_ ma sono presenti anche in biblioteca, riporterò anche il codice per prenderlo in prestito nella biblioteca di Scienze (📍 Povo).
 
 _Se non è specificato_ il link al libro allora il materiale offerto dal corso è sufficiente al superamento dell'esame.
@@ -22,15 +26,15 @@ Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non 
 ### 1° Semestre
 
 - :six: Algebra Lineare 🆘
-- 1️⃣2️⃣ Analisi matematica 🆘
-- 1️⃣2️⃣ Programmazione 1 🧪 🆘
+- :one: :two: Analisi matematica 🆘
+- :one: :two: Programmazione 1 🧪 🆘
 
 ### 2° Semestre
 
 - :six: Calcolatori (~:it:)
 - :six: Fondamenti Matematici per l'informatica
 - :six: Probabilità e Statistica [Ross][1], Eserciziario: [Verri][2]
-- ( 1️⃣2️⃣ ) Programmazione 2
+- ( :one: :two: ) Programmazione 2
 	- :six: Modulo 1 (Java) 🧪
 	- :six: Modulo 2 (Standard ML) 🧪
 
@@ -44,12 +48,12 @@ A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
 ### 3° + 4° Semestre
 
-- 1️⃣2️⃣ Algoritmi e Strutture dati 🧪 [Montresor, Bertossi][4]
+- :one: :two: Algoritmi e Strutture dati 🧪 [Montresor, Bertossi][4]
 
 ### 3° Semestre
 
-- :six: Basi di dati (:it: ~ :gb:)
-- :six: Ingegneria del Software 1 (:it:) [][5]
+- :six: Basi di dati ( :it: ~ :gb: )
+- :six: Ingegneria del Software 1 ( :it: ) [][5]
 - :six: Logica (:it:) 🧪
 - :six: Reti (:it:) [Kurose][6]
 
@@ -57,13 +61,13 @@ A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
 - :six: Fisica
 - :six: Introduzione alla Programmazione per il Web
-- 1️⃣2️⃣ Sistemi Operativi (:it:) [Silberschatz][7]
+- :one: :two: Sistemi Operativi (:it:) [Silberschatz][7]
 
 ### 5° Semestre
 
 - :six: Ingegneria del software 2
 - :six: Interazione Uomo-Macchina [Norman][8]
-- 1️⃣2️⃣ Linguaggi Formali e Compilatori [Aho][9] (non disponibile)
+- :one: :two: Linguaggi Formali e Compilatori [Aho][9] (non disponibile)
 
 #### A scelta
 
