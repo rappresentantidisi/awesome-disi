@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jemoji
   - jekyll-relative-links
