@@ -8,3 +8,4 @@ Lista curata di risorse per sopravvivere alla triennale in informatica all'Unive
 - :balloon: [Eventi](docs/eventi.md)
 - :ticket: [Servizi](docs/servizi.md)
 - :computer: [Progetti informatici](docs/progetti-it.md)
+- :octocat: [Contribuisci alla Repo](https://github.com/rappresentantidisi/awesome-disi/)
