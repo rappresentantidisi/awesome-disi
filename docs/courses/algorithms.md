@@ -1,6 +1,6 @@
 # Algoritmi e Strutture Dati
 
-Docente: :sunglasses: [Alberto Montresor](https://webapps.unitn.it/du/it/Persona/PER0000098/Didattica
+Docente: :sunglasses: [Alberto Montresor](https://webapps.unitn.it/du/it/Persona/PER0000098/Didattica)
 
 Esercitatori:
 
