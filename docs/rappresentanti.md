@@ -6,7 +6,7 @@
 
 * :memo: [canale Telegram](https://t.me/rappresentantidisi) aggiornamento mensile
 * :thumbsup: [Facebook](https://www.facebook.com/rappresentantidisi/) sempre disponibile
-* :mailbox: [mail](rapp.stud.disi@unitn.it) per comunicazioni ufficiali
+* :mailbox: [mail](mailto:rapp.stud.disi@unitn.it) per comunicazioni ufficiali
 
 ## Presentazioni
 
