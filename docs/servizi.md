@@ -45,6 +45,7 @@ Ne hai trovati altri e vorresti aggiungerne? Effettua una pull request!
 * [mensa-cli](https://git.sr.ht/~fgaz/mensa-cli) (visione menù del giorno e pasto lesto direttamente dalla linea di comando)
 * [Ports](https://t.me/PortsBot) (disponibilità delle aule del DISI)
 * [Unimeal](https://t.me/unimealbot) (visione menù del giorno e pasto lesto)
+* [bibliotrentobot](https://t.me/bibliotrentobot) (Orari delle biblioteche)
 * [unitncal](https://unitncal.fgaz.me) (sincronizzazione nativa del calendario delle lezioni con il calendario di sistema)
 * [Webcam Mense](https://t.me/WMUBot) (immagini in tempo reale dalle 11.45 alle 14.30)
 
