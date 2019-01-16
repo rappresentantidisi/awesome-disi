@@ -88,6 +88,7 @@ Evento __semestrale__ (inizio di ogni semestre)
 ## Eventi organizzati dall'[Università](https://www.facebook.com/UniTrento/events/) :school:
 
 - [Grafik Week](https://www.facebook.com/grafikweek/events)
+- [Google HashCode](https://g.co/hashcode)
 
 ### ICTDays :bug:
 
