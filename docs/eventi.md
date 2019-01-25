@@ -89,6 +89,9 @@ Evento __semestrale__ (inizio di ogni semestre)
 
 - [Grafik Week](https://www.facebook.com/grafikweek/events)
 - [Google HashCode](https://g.co/hashcode)
+- [Global Game Jam Trento](https://www.facebook.com/GGJTrento/events/)
+- [Facoltiadi UniTn](https://unitrentosport.unitn.it/facoltiadi)
+- [Fisicittà](https://www.facebook.com/sif2017trento/events/)
 
 ### ICTDays :bug:
 
