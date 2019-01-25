@@ -3,12 +3,5 @@ plugins:
   - jemoji
   - jekyll-relative-links
 header_pages:
-  - index.html
-  - rappresentanti.html
-  - didattica.html
-  - eventi.html
-  - servizi.html
-  - progetti-it.html
-  - mobility-card.html
-  - pratiche.html
-  - telegram.html
+  - docs/pratiche.html
+  - docs/telegram.md
