@@ -2,4 +2,3 @@ theme: minima
 plugins:
   - jemoji
   - jekyll-relative-links
-
