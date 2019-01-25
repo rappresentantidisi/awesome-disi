@@ -2,6 +2,3 @@ theme: minima
 plugins:
   - jemoji
   - jekyll-relative-links
-header_pages:
-  - docs/pratiche.html
-  - docs/telegram.md
