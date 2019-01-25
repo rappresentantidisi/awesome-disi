@@ -2,3 +2,13 @@ theme: minima
 plugins:
   - jemoji
   - jekyll-relative-links
+header_pages:
+  - index.md
+  - rappresentanti.md
+  - didattica.md
+  - eventi.md
+  - servizi.md
+  - progetti-it.md
+  - mobility-card.md
+  - pratiche.md
+  - telegram.md
