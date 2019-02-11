@@ -57,3 +57,12 @@ Ne hai trovati altri e vorresti aggiungerne? Effettua una pull request!
 ### Car pooling
 
 [Pick Me Up](https://t.me/PickMeUp_bot)
+
+
+### Servizi utili ai pendolari
+
+Applicazioni:
+
+- Orario Treni [Android](https://play.google.com/store/apps/details?id=org.paoloconte.treni_lite)
+- [TrenIt Telegram Bot](t.me/TrenItBot)
+TrenItBot ti permette di cercare i treni italiani (treni Italo inclusi) e di seguirli durante il loro tragitto.
