@@ -51,8 +51,8 @@ Ne hai trovati altri e vorresti aggiungerne? Effettua una pull request!
 
 ### Informazione
 
-* [Rappresentanti DISI](https://t.me/rappresentantidisi) ~500 follower comunicazioni a livello di ateneo;
-* [L’universitario](https://t.me/luniversitario) ~200 follower Giornale universitario.
+* [Rappresentanti DISI](https://t.me/rappresentantidisi) ~600 follower comunicazioni a livello di ateneo;
+* [L’universitario](https://t.me/luniversitario) ~300 follower Giornale universitario.
 
 ### Car pooling
 
