@@ -72,6 +72,7 @@ Evento __semestrale__ (inizio di ogni semestre)
 
 - :heart: [PopLar](https://www.facebook.com/poplartrento/) (metà settembre)
 - :heart: [Co.Scienza](https://www.facebook.com/CoScienzaFestival/events/) (marzo)
+- :heart: [U|man](https://www.facebook.com/uman.tn/events/) (ottobre)
 - :guitar: [Suoni Universitari](https://www.facebook.com/suoniuniv/events/) (nov-dic)
 - :performing_arts: [Teatro Sambapòlis](https://www.facebook.com/TeatroSanbapolis/events/) (tutto l'anno)
 - :tropical_drink: [Studentato San Bartolomeo](https://www.facebook.com/SanbaTrento/events/)
@@ -87,6 +88,10 @@ Evento __semestrale__ (inizio di ogni semestre)
 ## Eventi organizzati dall'[Università](https://www.facebook.com/UniTrento/events/) :school:
 
 - [Grafik Week](https://www.facebook.com/grafikweek/events)
+- [Google HashCode](https://g.co/hashcode)
+- [Global Game Jam Trento](https://www.facebook.com/GGJTrento/events/)
+- [Facoltiadi UniTn](https://unitrentosport.unitn.it/facoltiadi)
+- [Fisicittà](https://www.facebook.com/sif2017trento/events/)
 
 ### ICTDays :bug:
 

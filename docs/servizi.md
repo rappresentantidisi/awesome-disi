@@ -42,15 +42,27 @@ Ne hai trovati altri e vorresti aggiungerne? Effettua una pull request!
 
 ### Utilità
 
+* [mensa-cli](https://git.sr.ht/~fgaz/mensa-cli) (visione menù del giorno e pasto lesto direttamente dalla linea di comando)
 * [Ports](https://t.me/PortsBot) (disponibilità delle aule del DISI)
 * [Unimeal](https://t.me/unimealbot) (visione menù del giorno e pasto lesto)
+* [bibliotrentobot](https://t.me/bibliotrentobot) (Orari delle biblioteche)
+* [unitncal](https://unitncal.fgaz.me) (sincronizzazione nativa del calendario delle lezioni con il calendario di sistema)
 * [Webcam Mense](https://t.me/WMUBot) (immagini in tempo reale dalle 11.45 alle 14.30)
 
 ### Informazione
 
-* [Rappresentanti DISI](https://t.me/rappresentantidisi) ~500 follower comunicazioni a livello di ateneo;
-* [L’universitario](https://t.me/luniversitario) ~200 follower Giornale universitario.
+* [Rappresentanti DISI](https://t.me/rappresentantidisi) ~600 follower comunicazioni a livello di ateneo;
+* [L’universitario](https://t.me/luniversitario) ~300 follower Giornale universitario.
 
 ### Car pooling
 
 [Pick Me Up](https://t.me/PickMeUp_bot)
+
+
+### Servizi utili ai pendolari
+
+Applicazioni:
+
+- Orario Treni [Android](https://play.google.com/store/apps/details?id=org.paoloconte.treni_lite)
+- [TrenIt Telegram Bot](t.me/TrenItBot)
+TrenItBot ti permette di cercare i treni italiani (treni Italo inclusi) e di seguirli durante il loro tragitto.
