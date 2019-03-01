@@ -10,13 +10,14 @@
 simbolo  | significato
 --|--
 ✔️ | completo
+🔨 | incompleto
 🆕 | appena rilasciata
 ⌛ | in rilascio
 ❌ | in cerca di contributi
 
 ### Primo semestre
 
-- ✔️ [Appunti di Analisi](https://github.com/ZamboniM/Analisi1-UNITN) di [_Marco Zamboni_](https://github.com/ZamboniM)
+- 🔨 [Appunti di Analisi](https://github.com/ZamboniM/Analisi1-UNITN) di [_Marco Zamboni_](https://github.com/ZamboniM)
 - ✔️🆕 [Appunti di Programmazione 1](https://github.com/FrancescoBozzo/Appunti-Programmazione1/) di [_Francesco Bozzo_](https://github.com/FrancescoBozzo) e [_Samuel Conti_](https://github.com/Samaretas)
 - ❌ ~~Algebra Lineare~~
 
