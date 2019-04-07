@@ -28,17 +28,19 @@ simbolo  | significato
 - ⌛ Piccoli esercizi in preparazione allo sbarramento di Java di [_Emanuele Nardi_](https://github.com/emanuelenardi)
 <!-- - 🆕 [Piccoli esercizi in preparazione allo sbarramento di Java](https://github.com/emanuelenardi/java-pills) di [_Emanuele Nardi_](https://github.com/emanuelenardi) -->
 - ⌛ Esami di Java di [_Emanuele Nardi_](https://github.com/emanuelenardi)
+- 🔖 [Materiale di studio per Database per Java](https://github.com/mfranzil/LinguaggiMod1UniTN) di [_Matteo Franzil_](https://github.com/mfranzil)
 <!-- - 🆕 [Esami di Java](https://github.com/emanuelenardi/latex-java) di [_Emanuele Nardi_](https://github.com/emanuelenardi) -->
 - ✔️ [Fondamenti matematici per l'informatica](https://github.com/mfranzil/TeoremiFMIUniTN) di [_Matteo Franzil_](https://github.com/mfranzil) & [manutentori](https://github.com/mfranzil/FMIUniTN#authors)
 - ❌ ~~Calcolatori~~
 - ❌ ~~Probabilità e statistica~~
-
+- 🔖 [Codice esercizi giornalieri](https://github.com/mfranzil/PSUniTN/) di [_Matteo Franzil_](https://github.com/mfranzil)
 
 ### Terzo semestre
 
 - ⏳ _Tutto_, ma _veramente tutto_ sul corso di Algoritmi e Strutture Dati di [_Emanuele Nardi_](https://github.com/emanuelenardi)
 <!-- - 🆕 [_Tutto_, ma _veramente tutto_ sul corso di Algoritmi e Strutture Dati](https://github.com/emanuelenardi/latex-algorithms) di [_Emanuele Nardi_](https://github.com/emanuelenardi) -->
 - ✔️ [Estratto degli esercizi del libro di database](https://github.com/emanuelenardi/latex-db/) di [_Emanuele Nardi_](https://github.com/emanuelenardi)
+- 🔖 [Materiale di studio per Database](https://github.com/mfranzil/DatabaseUniTN) di [_Matteo Franzil_](https://github.com/mfranzil)
 - ⌛ Appunti di Ingegneria del Software 1 di [_Emanuele Nardi_](https://github.com/emanuelenardi)
 <!-- - 🆕 [Appunti di Ingegneria del Software 1](https://github.com/emanuelenardi/latex-is1) di [_Emanuele Nardi_](https://github.com/emanuelenardi) -->
 - ✔️ [Dispensa teorica di logica](https://github.com/gik98/unitn18-logics) di [_Giacomo Fabris_](https://github.com/gik98)
@@ -54,6 +56,8 @@ simbolo  | significato
 - ⌛ Lecture notes of the course of Introduction to Web Programming held at the University of Trento
 - ✔️ [Raccolta dei quiz di Intro alla Prog. Web](https://github.com/emanuelenardi/latex-quiz-web) di [_Emanuele Nardi_](https://github.com/emanuelenardi)
 <!-- - 🆕 [Lecture notes of the course of Introduction to Web Programming held at the University of Trento](https://github.com/emanuelenardi/latex-web) di [_Emanuele Nardi_](https://github.com/emanuelenardi) -->
+- 🔖 [Materiale di studio per Programmazione Web](https://github.com/mfranzil/Programmazione1UniTN) di [_Matteo Franzil_](https://github.com/mfranzil)
+- ⌛ [Appunti di programmazione Web](https://github.com/Matteounitn/ProgrammazioneWebUniTN/) di [_Matteo Rizzi_](https://github.com/Matteounitn/)
 - ❌ ~~Sistemi operativi~~
 
 
@@ -72,7 +76,7 @@ simbolo  | significato
 
 - ✔️ [Raccolta delle domande di sbarramento di Algoritmi Avanzati](https://github.com/emanuelenardi/latex-aa-answers) di [_Emanuele Nardi_](https://github.com/emanuelenardi)
 - ✔️ [Raccolta delle domande di sbarramento di Reti Avanzate](https://github.com/emanuelenardi/latex-an-answers) di [_Emanuele Nardi_](https://github.com/emanuelenardi)
-- ⌛ Dispensa di Android per segue _passo passo_ le lezioni
+- ⌛ Dispensa di Android per segue _passo passo_ le lezioni di [_Emanuele Nardi_](https://github.com/emanuelenardi)
 <!-- - 🆕 [Dispensa di Android per segue _passo passo_ le lezioni](https://github.com/emanuelenardi/latex-android) di [_Emanuele Nardi_](https://github.com/emanuelenardi) -->
 - ❌ ~~Inglese tecnico~~
 - ❌ ~~Semantica dei linguaggi di programmazione~~

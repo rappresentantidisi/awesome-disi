@@ -84,7 +84,7 @@ A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
 
 ### Secondo anno
 
-- :one: :two: [Algoritmi e Strutture dati](./courses/algorithms.md) 🧪 [Montresor, Bertossi][4]
+- :one: :two: Algoritmi e Strutture dati 🧪 [Montresor, Bertossi][4]
 
 ### Semestre 3
 
