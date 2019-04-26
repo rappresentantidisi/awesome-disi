@@ -5,6 +5,8 @@
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 
+La maggior parte delle dispense qui presenti sono una raccolta degli appunti che presi in LaTeX durante il mio percorso di laurea triennale.
+
 ## Legenda
 
 simbolo  | significato

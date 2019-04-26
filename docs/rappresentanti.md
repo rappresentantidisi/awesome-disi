@@ -23,12 +23,9 @@ Potete rileggere le loro presentazioni nell'[album Facebook](https://facebook.co
 
 ![Rappresentanti DISI 2018-2020](../images/representatives/2018-2020.jpg "Rappresentanti DISI in carica")
 
-<!-- ## Risultati -->
-<!-- ## Programma -->
-<!-- ## Obiettivi -->
+<!-- TODO Risultati -->
+<!-- TODO Programma -->
+<!-- TODO Obiettivi -->
 
-<!-- ## Scorsi mandati -->
-
-<!-- ## Risultati -->
-<!-- ## Programma -->
-<!-- ## Obiettivi -->
+<!-- TODO Sei interessato alla rappresentanza studentesca? -->
+<!-- TODO Sei interessato all'associazionismo? -->

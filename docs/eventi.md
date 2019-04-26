@@ -1,6 +1,9 @@
 # Eventi
 
-A trento non c'è mai davvero niente da fare?
+<!-- TODO Pagine eventbrite da seguire -->
+<!-- TODO cinema -->
+
+A trento non c'è mai davvero niente da fare? 🤔
 
 - [Speck&Tech 🐷](#specktech-)
 - [Ludimus 🎲](#ludimus-)

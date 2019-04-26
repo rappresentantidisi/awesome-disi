@@ -1,134 +1,113 @@
-# Didattica :books:
+# Didattica
 
-#### Contenuti
-<!-- TOC -->
+## Contenuti
 
-- [Didattica :books:](#didattica-books)
-	- [Percorso comune](#percorso-comune)
-		- [Legenda](#legenda)
-		- [Contenuti](#contenuti)
-		- [Semestre 1](#semestre-1)
-		- [Semestre 2](#semestre-2)
-	- [Percorso Standard](#percorso-standard)
-		- [Secondo anno](#secondo-anno)
-		- [Semestre 3](#semestre-3)
-		- [Semestre 4](#semestre-4)
-		- [Semestre 5](#semestre-5)
-			- [A scelta](#a-scelta)
-		- [Semestre 6](#semestre-6)
-			- [A scelta](#a-scelta-1)
-	- [Percorso di Economia](#percorso-di-economia)
-	- [Percorso di Biotecnologie](#percorso-di-biotecnologie)
-	- [Percorso Sistemi](#percorso-sistemi)
-	- [Tesi e tirocinio](#tesi-e-tirocinio)
+- [Semestre 1](#semestre-1)
+- [Semestre 2](#semestre-2)
+- [Semestre 3](#semestre-3)
+- [Semestre 4](#semestre-4)
+- [Semestre 5](#semestre-5)
+- [Semestre 6](#semestre-6)
 
-<!-- /TOC -->
+## Introduzione
 
-Ti consegno il _Santo Graal_: [la cartella di drive di informatica](https://bit.ly/drive-folder) 📁.
+Fai _sempre_ riferimento al [manifesto degli studi](https://offertaformativa.unitn.it/it/l/informatica/regolamenti-e-manifesti) dell'anno in cui ti sei immatricolato per l'offerta didattica del dipartimento.
 
-Fai __sempre__ riferimento al [manifesto degli studi]() dell'anno in cui ti sei immatricolato per l'offerta didattica del dipartimento.
+<!-- Ti consegno il _Santo Graal_: [la cartella di drive di informatica](https://bit.ly/drive-folder) 📁. -->
 
 ## Percorso comune
 
-I corsi sono presentati _in ordine alfabetico_.
+<!-- I corsi sono presentati _in ordine alfabetico_. -->
 
-Attualmente la maggior parte dei corsi vengono tenuti in italiano ( :it: ), se non diversamente specificato ( :gb: ).
+Attualmente la maggior parte dei corsi vengono offerti in italiano, se non diversamente specificato.
 
-I link dei libri sono stati presi da _Amazon_ ma sono presenti anche in biblioteca, riporterò anche il codice per prenderlo in prestito nella biblioteca di Scienze (📍 Povo).
+I link dei libri fanno riferimento ad _Amazon_ ma sono _tutti_ presenti anche biblioteca di Scienze (📍 Povo) nella lezione dei libri di corso.
 
-_Se non è specificato_ il link al libro allora il materiale offerto dal corso è sufficiente al superamento dell'esame.
+<!-- Se non viene specificato il link al libro allora il materiale offerto dal corso è sufficiente al superamento dell'esame. -->
 
-Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso _non è consigliato_, viceversa ✔️ indica che il corso è consigliato.
+<!-- Se l'esame risulta fra quelli opzionali il simbolo ❌ indica che il corso __non__ è consigliato, viceversa ✔️ indica che lo è. -->
 
-#### Legenda
+Sono trattati solo i corsi del "percorso standard".
+
+<!-- ## Legenda
 
 | Simbolo | Significato    |
 | --      | ---            |
 | 🧪      | esercitazioni |
-| :sos:   | [tutorato][1]  |
-| :it:    | italiano       |
-| :gb:    | inglese        |
+| 🆘   | [tutorato][1]  |
+|     | italiano       |
+| :gb:    | inglese        | -->
 
 ### Semestre 1
 
-- :sos: :six: Algebra Lineare
-- :sos: :one: :two: Analisi matematica
-- :sos: :one: :two: Programmazione 1 🧪
+- 🆘 (6) Algebra Lineare
+- 🆘 12 Analisi matematica
+- 🆘 12 Programmazione 1
 
 ### Semestre 2
 
-- :six: Calcolatori (~ :it: )
-- :six: Fondamenti Matematici per l'informatica
-- :six: Probabilità e Statistica [Ross][2], Eserciziario: [Verri][3]
-- ( :one: :two: ) Programmazione 2
-	- :six: Modulo 1 (Java) 🧪
-	- :six: Modulo 2 (Standard ML) 🧪
+- (6) Calcolatori
+- (6) Fondamenti Matematici per l'informatica
+- (6) Probabilità e Statistica [Ross][2], Eserciziario: [Verri][3]
+- (12) Programmazione 2
+	- (6) Modulo 1 (Java) 🧪
+	- (6) Modulo 2 (Standard ML) 🧪
 
 #### Propedeuticità
 
 Le uniche propedeuticità per farsi verbalizzare gli esami del secondo anno sono:
 
-- :one: :two: 12 crediti in ambito matematico
-- aver raggiunto il livello A2 di inglese (aver superato l'esame di ingresso)
+- (una qualsiasi combinazione di) 12 crediti in ambito matematico (area MAT sul manifesto degli studi)
+- aver superato l'esame di ingresso di inglese (A2)
 
-#### Scelta del percorso
+<!-- #### Scelta del percorso
 
-A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5️⃣:
+A questo punto ti verrà chiesto di scegliere un indirizzo a scelta fra 5:
+- standard
+- economia
+- biotecnologie
+- sistemi
+- matematico (tace) -->
 
-- :neckbeard: Standard
-- 💰 Economia
-- 🧬 Biotecnologie
-- 👨🏻‍💻 Sistemi
-
-## Percorso Standard
-
-### Secondo anno
-
-- :one: :two: Algoritmi e Strutture dati 🧪 [Montresor, Bertossi][4]
+<!-- ## Percorso Standard -->
 
 ### Semestre 3
 
-- :six: Basi di dati ( :it: ~ :it: )
-- :six: Ingegneria del Software 1 ( :it: ) <!-- [][5] -->
-- :six: Logica (:it:) 🧪
-- :six: Reti (:it:) [Kurose][6]
+- (12) Algoritmi e Strutture dati 🧪 [Montresor, Bertossi][4]
+- (6) Basi di dati 🧪
+- (6) Ingegneria del Software 1 <!-- [][5] -->
+- (6) Logica 🧪
+- (6) Reti [Kurose][6]
 
 ### Semestre 4
 
-- :sos: :six: Fisica
-- :six: Introduzione alla Programmazione per il Web
-- :one: :two: Sistemi Operativi (:it:) [Silberschatz][7]
+- 🆘 (6) Fisica
+- (6) Introduzione alla Programmazione per il Web
+- 12 Sistemi Operativi [Silberschatz][7]
 
 ### Semestre 5
 
-- :six: Ingegneria del software 2
-- :six: Interazione Uomo-Macchina [Norman][8]
-- :one: :two: Linguaggi Formali e Compilatori [Aho][9] (non disponibile)
-
-#### A scelta
-
-Per completare il corso di studi in informatica sono rischiesti 12 crediti formativi in esami a scelta.
-
-- :x: :six: Introduction to Computer and Network Security (:gb:)
-
-__NOTA__: Il corso di intro2cns è offerto anche al 1° anno di magistrale come corso suggerito.
+- (6) Ingegneria del software 2
+- (6) Interazione Uomo-Macchina [Norman][8]
+- (12) Linguaggi Formali e Compilatori [Aho][9]
 
 ### Semestre 6
 
-#### A scelta
+- (6) Algoritmi Avanzati
+
+#### Esami a scelta
 
 Per completare il corso di studi in informatica sono rischiesti 12 crediti formativi in esami a scelta.
 
-- :heavy_check_mark: :six: Algoritmi Avanzati
-- :heavy_check_mark: :six: Inglese tecnico
-- :heavy_check_mark: :six: Reti Avanzate
-- :heavy_check_mark: :six: Sistemi informativi
-- :x: :six: Sistemi Mobili e Tablet (Android)
+- (6) Algoritmi Avanzati
+- (6) Inglese tecnico
+- (6) Introduction to Computer and Network Security (:gb:)
+- (6) Reti Avanzate
+- (6) Sistemi informativi
+- (6) Sistemi Mobili e Tablet (Android)
 
-## Percorso di Economia
-## Percorso di Biotecnologie
-## Percorso Sistemi
-## Tesi e tirocinio
+<!-- TODO scrivere -->
+<!-- ### Tesi e tirocinio -->
 
 [1]: https://www.disi.unitn.it/it/education/educational-services/tutorship
 
