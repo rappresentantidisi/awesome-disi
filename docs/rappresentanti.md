@@ -3,7 +3,7 @@
 <!-- Il DISI è  -->
 
 ## Contatti
-
+* 🤖 [Bot dei Rappresentanti](https://t.me/rappdisibot) sempre disponibile
 * :memo: [canale Telegram](https://t.me/rappresentantidisi) aggiornamento mensile
 * :thumbsup: [Facebook](https://www.facebook.com/rappresentantidisi/) sempre disponibile
 * :mailbox: [mail](mailto:rapp.stud.disi@unitn.it) per comunicazioni ufficiali
